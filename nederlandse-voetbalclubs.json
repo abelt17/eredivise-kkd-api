@@ -1,0 +1,346 @@
+{
+    "clubs": [
+      {
+        "naam": "ADO Den Haag",
+        "stad": "Den Haag",
+        "latitude": 52.0629,
+        "longitude": 4.3250,
+        "beschrijving": "ADO Den Haag, opgericht op 1 februari 1905, is een Haagse club met een rijke historie.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "Ajax",
+        "stad": "Amsterdam",
+        "latitude": 52.3147,
+        "longitude": 4.9414,
+        "beschrijving": "Ajax werd opgericht op 18 maart 1900 in Amsterdam en is een van de succesvolste clubs van Nederland.",
+        "eredivisie_titels": 36,
+        "logo": ""
+      },
+      {
+        "naam": "Almere City FC",
+        "stad": "Almere",
+        "latitude": 52.3702,
+        "longitude": 5.2146,
+        "beschrijving": "Almere City FC werd opgericht in 2001 (eerst als FC Omniworld) en is een relatief jonge club in het Nederlandse profvoetbal.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "AZ Alkmaar",
+        "stad": "Alkmaar",
+        "latitude": 52.6131,
+        "longitude": 4.7425,
+        "beschrijving": "AZ Alkmaar ontstond in 1967 uit een fusie tussen Alkmaar '54 en FC Zaanstreek.",
+        "eredivisie_titels": 2,
+        "logo": ""
+      },
+      {
+        "naam": "SC Cambuur",
+        "stad": "Leeuwarden",
+        "latitude": 53.2014,
+        "longitude": 5.7989,
+        "beschrijving": "SC Cambuur werd opgericht op 19 juni 1964 in Leeuwarden, als afsplitsing van VV Leeuwarden.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "De Graafschap",
+        "stad": "Doetinchem",
+        "latitude": 51.9583,
+        "longitude": 6.2936,
+        "beschrijving": "De Graafschap werd opgericht op 1 februari 1954 in Doetinchem en staat bekend om zijn trouwe aanhang, de 'Superboeren'.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "FC Den Bosch",
+        "stad": "'s-Hertogenbosch",
+        "latitude": 51.6908,
+        "longitude": 5.3038,
+        "beschrijving": "FC Den Bosch ontstond op 18 augustus 1965 als afsplitsing van BVV en Wilhelmina.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "FC Dordrecht",
+        "stad": "Dordrecht",
+        "latitude": 51.8103,
+        "longitude": 4.6736,
+        "beschrijving": "FC Dordrecht, opgericht in zijn huidige vorm in 1972 (als DS '79), heeft een lange geschiedenis die teruggaat tot 1883.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "FC Eindhoven",
+        "stad": "Eindhoven",
+        "latitude": 51.4416,
+        "longitude": 5.4697,
+        "beschrijving": "FC Eindhoven werd opgericht op 16 november 1909 en is een van de oudste professionele voetbalclubs van Eindhoven.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "FC Emmen",
+        "stad": "Emmen",
+        "latitude": 52.7853,
+        "longitude": 6.8976,
+        "beschrijving": "FC Emmen werd opgericht op 21 augustus 1925 als amateurclub en trad in 1985 toe tot het betaald voetbal.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "Excelsior",
+        "stad": "Rotterdam",
+        "latitude": 51.9244,
+        "longitude": 4.4777,
+        "beschrijving": "Excelsior werd opgericht op 23 juli 1902 in de Rotterdamse wijk Kralingen.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "Feyenoord",
+        "stad": "Rotterdam",
+        "latitude": 51.9038,
+        "longitude": 4.5233,
+        "beschrijving": "Feyenoord werd opgericht op 19 juli 1908 als Wilhelmina (later Celeritas en Feijenoord) in Rotterdam-Zuid.",
+        "eredivisie_titels": 16,
+        "logo": ""
+      },
+      {
+        "naam": "Fortuna Sittard",
+        "stad": "Sittard",
+        "latitude": 50.9950,
+        "longitude": 5.8583,
+        "beschrijving": "Fortuna Sittard ontstond op 1 juli 1968 uit een fusie tussen Fortuna '54 en Sittardia.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "Go Ahead Eagles",
+        "stad": "Deventer",
+        "latitude": 52.2592,
+        "longitude": 6.1892,
+        "beschrijving": "Go Ahead werd opgericht op 2 december 1902 in Deventer (naam werd Go Ahead Eagles in 1971).",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "FC Groningen",
+        "stad": "Groningen",
+        "latitude": 53.2194,
+        "longitude": 6.5665,
+        "beschrijving": "FC Groningen werd opgericht op 16 juni 1971 als opvolger van GVAV.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "SC Heerenveen",
+        "stad": "Heerenveen",
+        "latitude": 52.9570,
+        "longitude": 5.9344,
+        "beschrijving": "SC Heerenveen werd opgericht op 20 juli 1920 als Athleta (later Spartaan en v.v. Heerenveen).",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "Helmond Sport",
+        "stad": "Helmond",
+        "latitude": 51.4800,
+        "longitude": 5.6558,
+        "beschrijving": "Helmond Sport werd opgericht op 27 juli 1967 als afsplitsing van het failliete Helmondia '55.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "Heracles Almelo",
+        "stad": "Almelo",
+        "latitude": 52.3519,
+        "longitude": 6.6681,
+        "beschrijving": "Heracles werd opgericht op 3 mei 1903 in Almelo (naam werd SC Heracles '74 en later Heracles Almelo).",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "Jong Ajax",
+        "stad": "Amsterdam",
+        "latitude": 52.3147,
+        "longitude": 4.9414,
+        "beschrijving": "Jong Ajax is het beloftenelftal van Ajax (opgericht 1900) en dient als opleidingsteam.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "Jong AZ",
+        "stad": "Wijdewormer",
+        "latitude": 52.5166,
+        "longitude": 4.7963,
+        "beschrijving": "Jong AZ is het beloftenelftal van AZ (opgericht 1967) en dient als opleidingsteam.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "Jong PSV",
+        "stad": "Eindhoven",
+        "latitude": 51.4419,
+        "longitude": 5.4678,
+        "beschrijving": "Jong PSV is het beloftenelftal van PSV (opgericht 1913) en dient als opleidingsteam.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "Jong FC Utrecht",
+        "stad": "Utrecht",
+        "latitude": 52.0908,
+        "longitude": 5.1214,
+        "beschrijving": "Jong FC Utrecht is het beloftenelftal van FC Utrecht (opgericht 1970) en dient als opleidingsteam.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "MVV Maastricht",
+        "stad": "Maastricht",
+        "latitude": 50.8514,
+        "longitude": 5.6910,
+        "beschrijving": "MVV Maastricht werd opgericht op 2 april 1902 en is de club van Maastricht.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "NAC Breda",
+        "stad": "Breda",
+        "latitude": 51.5847,
+        "longitude": 4.7908,
+        "beschrijving": "NAC Breda ontstond op 19 september 1912 uit een fusie tussen NOAD en ADVENDO.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "NEC",
+        "stad": "Nijmegen",
+        "latitude": 51.8342,
+        "longitude": 5.8617,
+        "beschrijving": "N.E.C. (Nijmegen Eendracht Combinatie) werd opgericht op 15 november 1900 in Nijmegen.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "PEC Zwolle",
+        "stad": "Zwolle",
+        "latitude": 52.5078,
+        "longitude": 6.0900,
+        "beschrijving": "PEC Zwolle werd opgericht op 12 juni 1910 als PH EDN Combinatie (PEC), later via PEC Zwolle '82 naar de huidige naam.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "PSV",
+        "stad": "Eindhoven",
+        "latitude": 51.4419,
+        "longitude": 5.4678,
+        "beschrijving": "PSV (Philips Sport Vereniging) werd opgericht op 31 augustus 1913 als sportclub voor Philips-medewerkers in Eindhoven.",
+        "eredivisie_titels": 25,
+        "logo": ""
+      },
+      {
+        "naam": "RKC Waalwijk",
+        "stad": "Waalwijk",
+        "latitude": 51.6864,
+        "longitude": 5.0653,
+        "beschrijving": "RKC Waalwijk (Rooms Katholieke Combinatie) werd opgericht op 26 augustus 1940 in Waalwijk.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "Roda JC Kerkrade",
+        "stad": "Kerkrade",
+        "latitude": 50.8667,
+        "longitude": 6.0667,
+        "beschrijving": "Roda JC Kerkrade ontstond op 27 juni 1962 uit een fusie tussen Roda Sport en Rapid JC.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "Sparta Rotterdam",
+        "stad": "Rotterdam",
+        "latitude": 51.9094,
+        "longitude": 4.4419,
+        "beschrijving": "Sparta Rotterdam werd opgericht op 1 april 1888 en is de oudste professionele voetbalclub van Nederland.",
+        "eredivisie_titels": 1,
+        "logo": ""
+      },
+      {
+        "naam": "Telstar",
+        "stad": "Velsen-Zuid",
+        "latitude": 52.4481,
+        "longitude": 4.6283,
+        "beschrijving": "Telstar ontstond op 17 juli 1963 toen de profsecties van VSV en Stormvogels fuseerden.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "TOP Oss",
+        "stad": "Oss",
+        "latitude": 51.7667,
+        "longitude": 5.5258,
+        "beschrijving": "TOP Oss werd opgericht op 9 april 1928 als T.O.P. (Tot Ons Plezier) en keerde in 1991 terug in het betaald voetbal.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "FC Twente",
+        "stad": "Enschede",
+        "latitude": 52.237,
+        "longitude": 6.8498,
+        "beschrijving": "FC Twente ontstond op 1 juli 1965 uit een fusie tussen Sportclub Enschede en de Enschedese Boys.",
+        "eredivisie_titels": 1,
+        "logo": ""
+      },
+      {
+        "naam": "FC Utrecht",
+        "stad": "Utrecht",
+        "latitude": 52.0908,
+        "longitude": 5.1214,
+        "beschrijving": "FC Utrecht ontstond op 1 juli 1970 uit een fusie van de Utrechtse clubs DOS, Elinkwijk en Velox.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "Vitesse",
+        "stad": "Arnhem",
+        "latitude": 51.9622,
+        "longitude": 5.8983,
+        "beschrijving": "Vitesse werd opgericht op 14 mei 1892 in Arnhem en is een van de oudere clubs in Nederland.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "FC Volendam",
+        "stad": "Volendam",
+        "latitude": 52.4953,
+        "longitude": 5.0678,
+        "beschrijving": "FC Volendam werd opgericht op 1 juni 1920 als Victoria, later RKSV Volendam, en ging in 1977 verder als zelfstandige profclub.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "VVV-Venlo",
+        "stad": "Venlo",
+        "latitude": 51.3714,
+        "longitude": 6.1611,
+        "beschrijving": "VVV-Venlo werd opgericht op 7 februari 1903 en is de Venlose Voetbal Vereniging.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      },
+      {
+        "naam": "Willem II",
+        "stad": "Tilburg",
+        "latitude": 51.5667,
+        "longitude": 5.0833,
+        "beschrijving": "Willem II werd opgericht op 12 augustus 1896 in Tilburg, vernoemd naar Koning Willem II.",
+        "eredivisie_titels": 0,
+        "logo": ""
+      }
+    ]
+  }
