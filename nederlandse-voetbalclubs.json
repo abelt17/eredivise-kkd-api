@@ -1,6 +1,7 @@
 {
     "clubs": [
       {
+        "id": 1,
         "naam": "ADO Den Haag",
         "stad": "Den Haag",
         "latitude": 52.0629,
@@ -10,6 +11,7 @@
         "logo": ""
       },
       {
+        "id": 2,
         "naam": "Ajax",
         "stad": "Amsterdam",
         "latitude": 52.3147,
@@ -19,6 +21,7 @@
         "logo": ""
       },
       {
+        "id": 3,
         "naam": "Almere City FC",
         "stad": "Almere",
         "latitude": 52.3702,
@@ -28,6 +31,7 @@
         "logo": ""
       },
       {
+        "id": 4,
         "naam": "AZ Alkmaar",
         "stad": "Alkmaar",
         "latitude": 52.6131,
@@ -37,6 +41,7 @@
         "logo": ""
       },
       {
+        "id": 5,
         "naam": "SC Cambuur",
         "stad": "Leeuwarden",
         "latitude": 53.2014,
@@ -46,6 +51,7 @@
         "logo": ""
       },
       {
+        "id": 6,
         "naam": "De Graafschap",
         "stad": "Doetinchem",
         "latitude": 51.9583,
@@ -55,6 +61,7 @@
         "logo": ""
       },
       {
+        "id": 7,
         "naam": "FC Den Bosch",
         "stad": "'s-Hertogenbosch",
         "latitude": 51.6908,
@@ -64,6 +71,7 @@
         "logo": ""
       },
       {
+        "id": 8,
         "naam": "FC Dordrecht",
         "stad": "Dordrecht",
         "latitude": 51.8103,
@@ -73,6 +81,7 @@
         "logo": ""
       },
       {
+        "id": 9,
         "naam": "FC Eindhoven",
         "stad": "Eindhoven",
         "latitude": 51.4416,
@@ -82,6 +91,7 @@
         "logo": ""
       },
       {
+        "id": 10,
         "naam": "FC Emmen",
         "stad": "Emmen",
         "latitude": 52.7853,
@@ -91,6 +101,7 @@
         "logo": ""
       },
       {
+        "id": 11,
         "naam": "Excelsior",
         "stad": "Rotterdam",
         "latitude": 51.9244,
@@ -100,6 +111,7 @@
         "logo": ""
       },
       {
+        "id": 12,
         "naam": "Feyenoord",
         "stad": "Rotterdam",
         "latitude": 51.9038,
@@ -109,6 +121,7 @@
         "logo": ""
       },
       {
+        "id": 13,
         "naam": "Fortuna Sittard",
         "stad": "Sittard",
         "latitude": 50.9950,
@@ -118,6 +131,7 @@
         "logo": ""
       },
       {
+        "id": 14,
         "naam": "Go Ahead Eagles",
         "stad": "Deventer",
         "latitude": 52.2592,
@@ -127,6 +141,7 @@
         "logo": ""
       },
       {
+         "id": 15, 
         "naam": "FC Groningen",
         "stad": "Groningen",
         "latitude": 53.2194,
@@ -136,6 +151,7 @@
         "logo": ""
       },
       {
+        "id": 16,
         "naam": "SC Heerenveen",
         "stad": "Heerenveen",
         "latitude": 52.9570,
@@ -145,6 +161,7 @@
         "logo": ""
       },
       {
+        "id": 17,
         "naam": "Helmond Sport",
         "stad": "Helmond",
         "latitude": 51.4800,
@@ -154,6 +171,7 @@
         "logo": ""
       },
       {
+        "id": 18,  
         "naam": "Heracles Almelo",
         "stad": "Almelo",
         "latitude": 52.3519,
@@ -163,6 +181,7 @@
         "logo": ""
       },
       {
+        "id": 19,  
         "naam": "Jong Ajax",
         "stad": "Amsterdam",
         "latitude": 52.3147,
@@ -172,6 +191,7 @@
         "logo": ""
       },
       {
+        "id": 20,
         "naam": "Jong AZ",
         "stad": "Wijdewormer",
         "latitude": 52.5166,
@@ -181,6 +201,7 @@
         "logo": ""
       },
       {
+        "id": 21,
         "naam": "Jong PSV",
         "stad": "Eindhoven",
         "latitude": 51.4419,
@@ -190,6 +211,7 @@
         "logo": ""
       },
       {
+        "id": 22,
         "naam": "Jong FC Utrecht",
         "stad": "Utrecht",
         "latitude": 52.0908,
@@ -199,6 +221,7 @@
         "logo": ""
       },
       {
+        "id": 23,
         "naam": "MVV Maastricht",
         "stad": "Maastricht",
         "latitude": 50.8514,
@@ -208,6 +231,7 @@
         "logo": ""
       },
       {
+        "id": 24,
         "naam": "NAC Breda",
         "stad": "Breda",
         "latitude": 51.5847,
@@ -217,6 +241,7 @@
         "logo": ""
       },
       {
+        "id": 25,
         "naam": "NEC",
         "stad": "Nijmegen",
         "latitude": 51.8342,
@@ -226,6 +251,7 @@
         "logo": ""
       },
       {
+        "id": 26,
         "naam": "PEC Zwolle",
         "stad": "Zwolle",
         "latitude": 52.5078,
@@ -235,6 +261,7 @@
         "logo": ""
       },
       {
+        "id": 27,
         "naam": "PSV",
         "stad": "Eindhoven",
         "latitude": 51.4419,
@@ -244,6 +271,7 @@
         "logo": ""
       },
       {
+        "id": 28,
         "naam": "RKC Waalwijk",
         "stad": "Waalwijk",
         "latitude": 51.6864,
@@ -253,6 +281,7 @@
         "logo": ""
       },
       {
+        "id": 29,
         "naam": "Roda JC Kerkrade",
         "stad": "Kerkrade",
         "latitude": 50.8667,
@@ -262,6 +291,7 @@
         "logo": ""
       },
       {
+        "id": 30,
         "naam": "Sparta Rotterdam",
         "stad": "Rotterdam",
         "latitude": 51.9094,
@@ -271,6 +301,7 @@
         "logo": ""
       },
       {
+        "id": 31,
         "naam": "Telstar",
         "stad": "Velsen-Zuid",
         "latitude": 52.4481,
@@ -280,6 +311,7 @@
         "logo": ""
       },
       {
+        "id": 32,
         "naam": "TOP Oss",
         "stad": "Oss",
         "latitude": 51.7667,
@@ -289,6 +321,7 @@
         "logo": ""
       },
       {
+        "id": 33,
         "naam": "FC Twente",
         "stad": "Enschede",
         "latitude": 52.237,
@@ -298,6 +331,7 @@
         "logo": ""
       },
       {
+        "id": 34,
         "naam": "FC Utrecht",
         "stad": "Utrecht",
         "latitude": 52.0908,
@@ -307,6 +341,7 @@
         "logo": ""
       },
       {
+        "id": 35,
         "naam": "Vitesse",
         "stad": "Arnhem",
         "latitude": 51.9622,
@@ -316,6 +351,7 @@
         "logo": ""
       },
       {
+        "id": 36,
         "naam": "FC Volendam",
         "stad": "Volendam",
         "latitude": 52.4953,
@@ -325,6 +361,7 @@
         "logo": ""
       },
       {
+        "id": 37,
         "naam": "VVV-Venlo",
         "stad": "Venlo",
         "latitude": 51.3714,
@@ -334,6 +371,7 @@
         "logo": ""
       },
       {
+        "id": 38,
         "naam": "Willem II",
         "stad": "Tilburg",
         "latitude": 51.5667,
